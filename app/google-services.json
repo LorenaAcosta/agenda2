@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152028019586",
+    "project_id": "pediatrico-181800"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152028019586:android:946eeed5b99dd727",
+        "android_client_info": {
+          "package_name": "com.inge2.agenda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152028019586-fe2mrv6qm7oba9j89p779jpv7gp0djj0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "152028019586-e9kmai0k98ij666tfiulf6fntknibtsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inge2.agenda2",
+            "certificate_hash": "9a7590ad0e6853d3cb71f6c3added653af6f02b6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrdxAxslASWz1vt27hveZ6xYKLdiEwsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
